@@ -7,7 +7,7 @@ Simple Webpack bundler for Vuejs SPA using:
 2. Go to project directory `cd vue-webpack-template` in terminal run `npm install`.
 3. Then `npm start`.
 
-After a successful build, the app run at http://localhost:8080.
+After a successful build, the app runs at http://localhost:8080.
 
 ## To Bundle
 1. Run `npm run build` from project directory.
