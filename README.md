@@ -3,8 +3,8 @@ Simple Webpack bundler for Vuejs SPA using:
 * vue-router
 
 ## To run
-1. Clone the repo.
-2. Go to project directory in terminal run `npm install`.
+1. Clone the repo, at terminal `git clone https://github.com/dhilipanraja-joseph/vue-webpack-template.git`.
+2. Go to project directory `cd vue-webpack-template` in terminal run `npm install`.
 3. Then `npm start`.
 
 After a successful build, the app run at http://localhost:8080.
